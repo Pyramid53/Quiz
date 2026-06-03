@@ -1,0 +1,8 @@
+{
+  "name": "Remix: QuizForm Generator",
+  "description": "A smart tool to transform raw text or images of questions into a beautiful, interactive Google Forms-style quiz experience with RTL support for Arabic content.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
